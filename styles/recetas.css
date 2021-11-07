@@ -1,0 +1,14 @@
+/* Hoja de estilo de la receta de cocina */
+
+body {background-image: url("../images/fondo.jpg");padding:15px auto ;font-family: 'Open Sans Condensed', sans-serif;}
+
+#container {width:80%;
+background-color: white;margin:15px auto;padding: 2%;;}
+
+#container h1 {text-align: center;margin: auto;}
+
+#container h2 {background-color: #7CA5BB;padding-left:10px ;}
+
+#container dl dt {font-weight: bold;}
+
+#container iframe {display: block; margin: auto;} /* Obliga al iframe a que se comporte como un bloque, aunque no lo sea */
